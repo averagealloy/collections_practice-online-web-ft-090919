@@ -18,7 +18,7 @@ array.reverse
 end
 
 
-e
+def 
 
 
 def find_a(array)
