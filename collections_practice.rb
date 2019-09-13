@@ -21,4 +21,4 @@ array.each do |elements|
 end
 def find_a(array)
   array.map do ||
-    .star
+    .start_
