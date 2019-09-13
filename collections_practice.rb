@@ -18,7 +18,7 @@ array.reverse
 end
 
 
-def kesha_m
+def kesha_maker(arr)
 
 
 def find_a(array)
