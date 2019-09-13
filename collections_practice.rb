@@ -19,7 +19,7 @@ end
 
 
 def kesha_maker(array)
-  array.
+  array.each 
 
 
 def find_a(array)
