@@ -20,6 +20,6 @@ array.each do |elements|
   end
 end
 def find_a(array)
-  array.map do |letter|
+  array.map do ||
     .start_with?("a")
   end
