@@ -21,5 +21,5 @@ array.each do |elements|
 end
 def find_a(array)
   array.map do |word|
-    .start_with?("a")
+    wo.start_with?("a")
   end
