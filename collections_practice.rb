@@ -17,4 +17,5 @@ end
 def kesha_marker(array)
 array.each do |elements|
   elements[2]
+  
 end
