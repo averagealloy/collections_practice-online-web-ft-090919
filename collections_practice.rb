@@ -14,11 +14,14 @@ end
 def reverse_array(array)
 array.reverse
 end
+
 def kesha_marker(array)
 array.each do |elements|
   elements[2] = "$"
   end
 end
+
+
 def find_a(array)
   array.find_all do |word|
     word.start_with?("a")
