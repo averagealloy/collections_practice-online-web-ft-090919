@@ -19,4 +19,4 @@ array.each do |elements|
   elements[2] = "$"
   end
 end
-def find_a(arr)
+def find_a(array)
