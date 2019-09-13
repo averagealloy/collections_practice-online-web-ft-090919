@@ -16,5 +16,5 @@ array.reverse
 end
 def kesha_marker(array)
 array.each do |elements|
-  
+  elements
 end
