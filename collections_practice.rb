@@ -19,4 +19,3 @@ array.each do |elements|
   elements[2] = "$"
   end
 end
-def
