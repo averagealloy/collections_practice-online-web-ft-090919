@@ -20,6 +20,6 @@ array.each do |elements|
   end
 end
 def find_a(array)
-  array.fi do |word|
+  array.find_all do |word|
     word.start_with?("a")
   end
