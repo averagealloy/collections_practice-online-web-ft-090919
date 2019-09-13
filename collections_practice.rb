@@ -20,6 +20,7 @@ end
 
 def kesha_maker(array)
   array.each do |elements|
+    elemen
 
 
 def find_a(array)
