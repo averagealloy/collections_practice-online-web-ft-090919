@@ -18,7 +18,7 @@ array.reverse
 end
 
 
-def 
+def kes
 
 
 def find_a(array)
