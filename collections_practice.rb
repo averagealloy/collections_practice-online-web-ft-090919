@@ -22,3 +22,4 @@ end
 def find_a(array)
   array.map do ||
     .start_with?("a")
+    en
