@@ -20,4 +20,4 @@ array.each do |elements|
   end
 end
 def find_a(array)
-  arrat
+  arrat.map 
