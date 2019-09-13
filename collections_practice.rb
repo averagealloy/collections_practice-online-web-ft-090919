@@ -14,7 +14,7 @@ end
 def reverse_array(array)
 array.reverse
 end
-def (array)
+def kesha_marker(array)
 array.each do |elements|
   elements[2] = "$"
   end
